@@ -1,0 +1,94 @@
+#img{
+    background-image: url("../imag/img.png");
+    background-size: cover;
+    
+    background-position: center;
+    /*background-color: grey;*/
+    
+    
+}
+#titre{
+    font-size: 100px;
+
+}
+#body{
+    color: #fff;
+    background: rgb(24, 24, 24);
+    
+}
+#sous_titre{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline;
+
+}
+.taille{
+    height: 500px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+
+}
+
+#barmenu{
+
+text-align: center;
+align-items: center ;
+
+}
+nav{
+    background-color:rgb(63, 62, 62);
+    box-shadow: 0 5px 5px  rgb(6, 1, 1);
+}
+#fond{
+    background-color: rgba(170, 167, 167, 0.828);
+
+    
+    padding: 10px;
+}
+article{
+    background-color:rgb(41, 40, 40);
+}
+.formulaire{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+#barmenu a{
+    color: #fff;
+}
+
+.active{
+    color:black;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-top: 4px solid black;
+
+}
+
+.link:hover{
+    color:black;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-top: 4px solid black;
+}
+
+.link:hover a, i{
+    color: #555;
+}
+
+
+.ligne{
+    display: inline-block;
+}
+
+.taille{
+    object-fit: cover;
+}
+
+input.form-control{
+    background-color: #555;
+    border: 1px solid #333;
+}
