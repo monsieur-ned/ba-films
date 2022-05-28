@@ -149,23 +149,17 @@
 
     </div>
 
-    <article class="container-fluid ">
+    <div class="container-fluid bg-dark">
         <div class="container ">
             <div class="row py-3" id="barcontact" >
-                <div class="col-md-4">
-                    <i class="fa fa-phone mx-3 text-light">+242 06 984-47-35</i>
-                </div>
-                <div class="col-md-4">
-                    <i class="fa fa-house-chimney mx-3 text-light">18 Rue Moubindou-MOUKONDO</Moubindou-MOUKONDO></Moubindou-MOUYABI></i>
-                </div>
-                <div class="col-md-4">
-                    <i class="fa whatapp-square mx-3 text-light">+242 06 984-47-35</i>
+                <div class="col-md-12 text-center">
+                    <small class="text-light">Copyright&copy;GOOD-TECH | Session 2</small>
                 </div>
             </div>
 
         </div>
 
-    </article>   
+    </div>   
 
 </body>
 </html>
