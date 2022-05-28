@@ -17,9 +17,11 @@
     
 }
 #sous_titre{
-    font-size: 14px;
+    font-size: 22px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: inline;
+    font-weight: 500;
+    color: aqua;
 
 }
 .taille{
@@ -38,6 +40,8 @@ text-align: center;
 align-items: center ;
 
 }
+
+
 nav{
     background-color:rgb(63, 62, 62);
     box-shadow: 0 5px 5px  rgb(6, 1, 1);
@@ -91,4 +95,15 @@ article{
 input.form-control{
     background-color: #555;
     border: 1px solid #333;
+}
+
+#barmenu div{
+    background-color: aqua;
+    display: flex;
+
+    justify-content: space-between;
+}
+
+#barmenu i{
+    font-size: 22px;
 }

@@ -17,7 +17,7 @@
             <div class="row py-5 my-5">
                 <h1 id="titre">Bâ Films</h1>
                 
-                <p class="col-md-4" id="sous_titre">Vivez le cinema autrement</p>
+                <p class="col-md-4 d-none" id="sous_titre">Vivez le cinema autrement</p>
                 
             </div>
 
@@ -26,16 +26,16 @@
     <nav class="container-fluid ">
         <div class="container ">
             <div class="row" id="barmenu " >
-                <div class="col-md-4 text-center link py-2 active">
+                <div class="col-md-4 text-md-center link py-2 active">
                     <i class="fa fa-house text-light mx-3"></i>
-                    <a href="index.html" id="dt">Accueil</a>
+                    <a href="/" id="dt">Accueil</a>
                 </div>
 
-                <div class="col-md-4 text-center link py-2">
+                <div class="col-md-4 text-md-center link py-2">
                     <i class="fa fa-tv mx-3 text-light"></i>
                     <a id="text2" href="pages/programme.html">Programme</a>
                 </div>
-                <div class="col-md-4 text-center link py-2">
+                <div class="col-md-4 text-md-center link py-2">
                     <i class="fa-regular fa-calendar-check text-light mx-3"></i>
                     <a id="text3" href="pages/réservation.html">Reservation</a>
                 </div>
